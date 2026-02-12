@@ -1,0 +1,17 @@
+newmtl panel_gray
+Kd 0.75 0.75 0.75
+
+newmtl panel_red
+Kd 0.6 0.1 0.1
+
+newmtl button_black
+Kd 0.1 0.1 0.1
+
+newmtl button_green
+Kd 0.1 0.7 0.2
+
+newmtl button_red
+Kd 0.8 0.1 0.1
+
+newmtl button_yellow
+Kd 0.9 0.8 0.1
